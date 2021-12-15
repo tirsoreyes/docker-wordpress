@@ -1,7 +1,7 @@
 # docker-wordpress
 Docker wordpress template
 
-# instrucciones de instalacion de docker
+# instrucciones de instalación de docker
 https://docs.docker.com/engine/install/
 
 install docker-compose
